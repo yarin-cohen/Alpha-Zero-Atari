@@ -1,4 +1,4 @@
-# AlphaZero- Atari- Breakout
+# AlphaZero- Atari Breakout
 This repository is a python implementation of DeepMind's AlphaZero reinforcement learning algorithm. The solution was
 implemented for Openai's Atari-Breakout environment. It can be used to solve other environments, provided
 you change specific sections.
